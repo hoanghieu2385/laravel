@@ -21,7 +21,13 @@ class RouteServiceProvider extends ServiceProvider
 
     /**
      * Define your route model bindings, pattern filters, and other route configuration.
+     *
+     *
+     * @var string|null
      */
+    //@protected $namespace = 'App\\Http\\Controllers\\';
+
+
     public function boot(): void
     {
         RateLimiter::for('api', function (Request $request) {
