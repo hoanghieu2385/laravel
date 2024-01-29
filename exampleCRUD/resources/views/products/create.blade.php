@@ -10,7 +10,7 @@
 
         <div class="pull-left">
 
-            <h2>Add New Product</h2>
+            <h2>Add New Phone Number</h2>
 
         </div>
 
@@ -72,9 +72,9 @@
 
             <div class="form-group">
 
-                <strong>Detail:</strong>
+                <strong>Phone Number:</strong>
 
-                <textarea class="form-control" style="height:150px" name="detail" placeholder="Detail"></textarea>
+                <textarea class="form-control" style="height:150px" name="detail" placeholder="0123456789"></textarea>
 
             </div>
 
