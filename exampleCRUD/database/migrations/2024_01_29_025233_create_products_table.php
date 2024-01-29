@@ -34,7 +34,7 @@ class CreateProductsTable extends Migration
 
             $table->string('name');
 
-            $table->text('detail');
+            $table->integer('detail');
 
             $table->timestamps();
 
