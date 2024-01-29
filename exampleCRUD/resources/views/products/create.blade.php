@@ -74,7 +74,7 @@
 
                 <strong>Phone Number:</strong>
 
-                <textarea class="form-control" style="height:150px" name="detail" placeholder="0123456789"></textarea>
+                <textarea class="form-control" style="height:150px" name="detail" placeholder="0123456780..."></textarea>
 
             </div>
 
