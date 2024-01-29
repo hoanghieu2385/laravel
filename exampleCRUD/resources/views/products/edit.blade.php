@@ -10,7 +10,7 @@
 
         <div class="pull-left">
 
-            <h2>Edit Product</h2>
+            <h2>Edit Phone Number</h2>
 
         </div>
 
@@ -74,7 +74,7 @@
 
             <div class="form-group">
 
-                <strong>Detail:</strong>
+                <strong>Phone Number:</strong>
 
                 <textarea class="form-control" style="height:150px" name="detail"
                     placeholder="Detail">{{ $product->detail }}</textarea>

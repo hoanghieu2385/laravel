@@ -44,7 +44,7 @@
 
         <div class="form-group">
 
-            <strong>Details:</strong>
+            <strong>Phone Number:</strong>
 
             {{ $product->detail }}
 
